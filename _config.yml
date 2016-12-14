@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Projects:
+    - Completed Projects: "projects"
     - Recommendation Report: "recReport"
     - 3D printable Steno machine: "https://github.com/Ardustorm/lkeyer-steno"
 

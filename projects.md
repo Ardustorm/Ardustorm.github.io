@@ -54,8 +54,8 @@ As projects become complete, I will add them here.
     {% endif %}
 
    </article>
-    
-  </li>
+
+
   {% endif %}
 {% endfor %}
 </ul>
