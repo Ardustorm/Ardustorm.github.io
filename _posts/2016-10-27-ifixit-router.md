@@ -2,6 +2,8 @@
 layout: post
 title:  ifixit Group Project
 subtitile: fixing the D-Link DIR 890L Router
+category: finished
+tag: done
 ---
 
 

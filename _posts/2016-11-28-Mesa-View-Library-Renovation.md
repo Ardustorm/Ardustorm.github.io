@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mesa View Elementary Library Renovation
+tag: done
 ---
 
 Mesa View Elementary School is in the process of renovating their library.
