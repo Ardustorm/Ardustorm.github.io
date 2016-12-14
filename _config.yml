@@ -24,11 +24,12 @@ description: A collection of my different projects.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Resume: "resume"
+  Projects:
+    - Recommendation Report: "recReport"
+    - 3D printable Steno machine: "https://github.com/Ardustorm/lkeyer-steno"
+
+    
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,7 +44,7 @@ author:
   email: "lthomp15@calpoly.edu"
   facebook: yourname  # eg. daattali
   github: Ardustorm    # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: Ardustrom   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -59,7 +60,7 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
@@ -80,7 +81,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
